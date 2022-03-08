@@ -1,2 +1,2 @@
-# SQL-Nanodegree
-Here are the projects I completed as part of the SQL Nanodegree on Udacity
+# Projects
+Here are several of the projects I completed as part of the SQL & Business Analytics Nanodegree on Udacity
