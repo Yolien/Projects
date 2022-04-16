@@ -1,6 +1,8 @@
-# Projects
-Here are several projects I completed as part of the SQL, Power BI and Business Analytics Nanodegrees on Udacity. 
-I can be reached at yolienpeeters@gmail.com or https://www.linkedin.com/in/yolienpeeters
+## Projects - Yolien Peeters
+
+Here are several projects I completed as part of the SQL, Power BI and Business Analytics Nanodegrees on Udacity. <br>
+Feel free to take a look and reach out if you have any questions! <br>
+Contact: [Email](yolienpeeters@gmail.com) | [Linkedin](https://www.linkedin.com/in/yolienpeeters)
 
 ### SQL Projects
 1. [Deforestation Project](https://github.com/Yolien/Projects/blob/main/Deforestation%20Project%20-%20SQL%20Code.sql)
